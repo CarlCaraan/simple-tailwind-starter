@@ -1,7 +1,7 @@
 {
   "name": "simple-tailwind-starter",
   "version": "1.0.0",
-  "description": "Tailwind Course First Project",
+  "description": "Simple Tailwind Starter Project",
   "main": "index.js",
   "scripts": {
     "build": "tailwindcss -i ./src/assets/css/input.css -o ./dist/assets/css/main.css",
