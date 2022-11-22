@@ -1,5 +1,5 @@
 # simple-tailwind-starter
-Tailwind Starter Project
+Simple Tailwind Starter Project
 # Installation:
-npm install
-npm run build or npm run watch
+1. npm install </br>
+2. npm run build or npm run watch
